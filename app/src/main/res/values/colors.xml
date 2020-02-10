@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="speed_min_color">#F3FF33</color>
+    <color name="speed_max_color">#2FBE1E</color>
+    <color name="speed_mid_color">#C1FF33</color>
+    <color name="bg_color">#000</color>
+    <color name="indicator_color">#d3d3d3d3</color>
+    <color name="transparent">#00000000</color>
+
+</resources>
